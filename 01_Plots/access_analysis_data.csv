@@ -1,0 +1,14 @@
+Category;Type;Occurrence;Spalte1
+Missing documentation of\n access through logfiles;Disclosed too much data;1;
+Loss of unencrypted\n USB stick;Disclosed too much data;1;
+Missing multi-factor\n authentication ;Disclosed too much data;1;
+Unlawfully accessing\n microphone of users' mobile phones ;Disclosed too much data;1;
+Access through false profiles ;Disclosed too much data;2;
+Personal data disclosed to wrong recipients ;Disclosed too much data;2;
+Excessive and unnecessarylarge group of recipients;Disclosed too much data;3;
+Adversaries disclosed personal data;Disclosed too much data;7;
+Unnecessary access thorugh third-parties;Disclosed too much data;13;
+Too much privilege to access personal data or  no sufficient limitation of access rights;Disclosed too much data;26;
+Personal data accessible without any  authentication procedure in place ;Disclosed too much data;32;
+Privacy policy was not sufficiently accessible ;Disclosed not enough data;4;
+Failure to comply with access requests to personal data;Disclosed not enough data;17;
